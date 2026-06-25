@@ -1,0 +1,15 @@
+]633;E;composer show laravel/framework;afee7b68-992c-4d90-9861-3dba6067ca61]633;Cname     : laravel/framework
+versions : * v10.48.17
+names    : laravel/framework, psr/container-implementation, psr/simple-cache-implementation, illuminate/auth, illuminate/broadcasting, illuminate/bus, illuminate/cache, illuminate/collections, illuminate/conditionable, illuminate/config, illuminate/console, illuminate/container, illuminate/contracts, illuminate/cookie, illuminate/database, illuminate/encryption, illuminate/events, illuminate/filesystem, illuminate/hashing, illuminate/http, illuminate/log, illuminate/macroable, illuminate/mail, illuminate/notifications, illuminate/pagination, illuminate/pipeline, illuminate/process, illuminate/queue, illuminate/redis, illuminate/routing, illuminate/session, illuminate/support, illuminate/testing, illuminate/translation, illuminate/validation, illuminate/view
+name     : livewire/livewire
+versions : * v3.5.6
+names    : livewire/livewire
+name     : laravel/sanctum
+versions : * v3.3.3
+names    : laravel/sanctum
+name     : spatie/laravel-activitylog
+versions : * 4.8.0
+names    : spatie/laravel-activitylog
+name     : shankhadev/bsdate
+versions : * dev-master
+names    : shankhadev/bsdate
