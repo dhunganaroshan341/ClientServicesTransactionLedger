@@ -12,14 +12,13 @@
         "abivia/ledger": "^1.11",
         "dompdf/dompdf": "^3.0",
         "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^10.10",
-        "laravel/sanctum": "^3.3",
+        "laravel/framework": "^11.0",
+        "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.8",
         "livewire/livewire": "*",
         "maatwebsite/excel": "^3.1",
         "shankhadev/bsdate": "master-dev",
-        "spatie/laravel-activitylog": "^4.8",
-        "spatie/laravel-ignition": "2.0"
+        "spatie/laravel-activitylog": "^4.8"
     },
     "require-dev": {
         "beyondcode/laravel-er-diagram-generator": "^3.0",
@@ -27,7 +26,7 @@
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.18",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^7.0",
+        "nunomaduro/collision": "^8.0",
         "phpunit/phpunit": "^10.1"
     },
     "autoload": {
